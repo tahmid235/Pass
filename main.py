@@ -1,0 +1,4 @@
+def abcd():
+    pass
+
+abcd()
